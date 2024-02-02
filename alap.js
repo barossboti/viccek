@@ -33,7 +33,7 @@ var viccek=[
 
 console.log(viccek)
 var veletlen=-1
-kattintas()
+sorsolas()
 console.log("Globális változó"+veletlen)
 function sorsolas(){
     document.getElementById("kesleltetes").innerHTML=""
